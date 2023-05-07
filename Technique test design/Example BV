@@ -1,0 +1,9 @@
+Input field - accepts integer values (from 18 to 99 inclusive)
+Answer:
+When combining the two techniques of Boundary Values Analysis and Equivalent Partitioning
+we minimize the number of inspections and cover the maximum volume of products.
+
+Valid checks:
+18, 50, 99
+Not valid:
+15, 17, 100, 110
