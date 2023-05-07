@@ -1,0 +1,54 @@
+Website : 
+
+Unit testing:
+⁃ Check the opening of the user profile.
+Integration testing:
+⁃ Check the possibility of ordering the product from the "basket" page
+System testing:
+⁃ Check login and log out
+Acceptance testing:
+⁃ Check the site for compliance with acceptance criteria
+Load :
+⁃ Check the operation of the site with an average capacity of 50,000 users
+Stress:
+⁃ Gradual testing of the maximum capacity of the site - starting with 60,000 users (test step for every 10,000 users) - Expected number for site failure - 100,000 users
+Recovery:
+⁃ Check the automatic recovery of the site after a failure.
+Volume :
+⁃ Check the site response speed when reducing the database by 50%
+UI:
+⁃ Check for compliance with the criteria: styles, colors, and information coloring.
+UX/Usability:
+⁃ Check the ease of use of site functions.
+⁃ Logical arrangement of icons
+Configuration/Compatibility:
+⁃ Check the operation of the site on different OS:
+Mac OC, Windows, Linux, Android.
+⁃ Check the operation of the site on different browsers:
+Google Chrome, Opera, Mozilla Firefox, Safari
+L10N:
+⁃ Checking the quality of the website translation into Ukrainian
+I18N:
+⁃ Check the possibility of adapting the date on the website to English format
+Re-testing/Confirmation testing: Bug- ( Possibility of adding a product with a negative quantity to the cart ( -1) )
+⁃ Check the addition of a product with a negative quantity to the cart
+Smoke testing:
+⁃ Check the main functionality of the site (Login, product selection, delivery selection, product order, product payment)
+Regression testing: Bug- ( Possibility of adding a product with a negative quantity (-1) to the cart)
+⁃ Check the possibility of adding the product to the cart
+⁃ Check the possibility of removing the product from the cart
+Sanity testing:
+⁃ Check the site for compliance with changes in requirements from (04.20.23)
+Install/Uninstall testing:
+⁃ Install the Allegro application
+⁃ Delete the Allegro application
+Security testing:
+⁃ Try to log in with invalid data
+Accessibility testing:
+⁃ Check the possibility of adapting the text and images on the site to the needs of people with visual disabilities
+Ad-hoc testing: Try to hack the site
+⁃ Order the maximum quantity of one product.
+⁃ Add the maximum number of different products to the cart
+End-to-end testing:
+⁃ Order the product (go from registration to paying for the product using Google Pay)
+ 
