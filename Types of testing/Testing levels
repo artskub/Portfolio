@@ -1,0 +1,10 @@
+Internet-shop :
+Unit testing:
+⁃ Check the opening of the product card.
+Integration testing;
+⁃ Check the addition and display of the product in the cart.
+⁃ Check the order
+System testing:
+⁃ Check the GUI (Do the sizes, colors, and styles on the site match the ones stated in the criteria)
+Acceptance testing:
+⁃ Check the possibility of purchasing the User story product (searching for the product - adding to the basket - placing an order - paying for the product - receiving the order code - receiving the product)
